@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440958855664",
+    "firebase_url": "https://yapilacaklarlistesi2.firebaseio.com",
+    "project_id": "yapilacaklarlistesi2",
+    "storage_bucket": "yapilacaklarlistesi2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440958855664:android:247bb93c9858c207",
+        "android_client_info": {
+          "package_name": "com.example.yapilacaklarlistesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440958855664-rmlchfmodnvcdma12gasobhaapriq57t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yapilacaklarlistesi",
+            "certificate_hash": "8b8da7c78685d755a6f46ebf3ebe4f7433df8f0a"
+          }
+        },
+        {
+          "client_id": "440958855664-mf7ifh9bud729040igrmoijg9aumbeur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCNypMMJ0pN_YDW49oOc2n-_Roae2W7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440958855664-mf7ifh9bud729040igrmoijg9aumbeur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
